@@ -32,7 +32,7 @@ Scikit_learn ML library*
 - Training a Random Forest model using the traing set and using hyperparameter tuning using GridSearchCV to optimize the model further.
 
 ### Model Report:
-- The model achieved a 93.8% accuracy, 95.4% precision and a 90.4% recall score.
+- The model achieved a 94.4% accuracy, 96.3% precision and a 92% recall score.
 
 ### Author:
 Soham Joshi | [LinkedIn Profile](https://www.linkedin.com/in/sohamjoshi1998/)
